@@ -1,0 +1,5 @@
+A report consisting of 3 pages (font size - 14) containing a detailed explanation and examples of triggers.
+
+OR
+
+A 2-3 minute video explaining the concept with an example.
